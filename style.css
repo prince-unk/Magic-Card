@@ -43,7 +43,7 @@ body {
   font-size: 1.5em;
   color: rgb(88 199 250 / 0%);
   cursor: pointer;
-  font-family: cursive;
+  font-family: 'Explora', cursive;
 }
 
 .card:hover {
@@ -103,7 +103,7 @@ body {
 a {
   color: #212534;
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: 'Explora', cursive;
   font-weight: bold;
   margin-top: 2rem;
 }
