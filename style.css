@@ -68,7 +68,7 @@ body {
     z-index: -1;
     top: -1%;
     left: -2%;
-    animation: spin 2.5s linear infinite;
+    animation: spin 3s linear infinite;
 }
 
 .card::after {
@@ -88,7 +88,7 @@ body {
     , #5ddcff, #3c67e3 43%, #4e00c2);
     opacity: 1;
   transition: opacity .5s;
-  animation: spin 2.5s linear infinite;
+  animation: spin 3s linear infinite;
 }
 
 @keyframes spin {
